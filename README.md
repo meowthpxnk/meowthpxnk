@@ -32,7 +32,7 @@ AI agents handle routine work; service boundaries and review stay with me.
 
 ---
 
-**telegram** - ****[https://t.me/meowthpxnk](https://t.me/meowthpxnk)
+**telegram** - [meowthpxnk](https://t.me/meowthpxnk)
 
 **mail** - meowthpxnk@gmail.com
 
